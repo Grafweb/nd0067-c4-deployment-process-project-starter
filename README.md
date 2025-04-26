@@ -10,7 +10,8 @@ The main feature of this project is:
 
 ## Project Link
 
-Frontend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/api/v0,
+Frontend: http://mybucket033212455158.s3-website.us-east-2.amazonaws.com/home,
+Backend: http://udagram-api-dev.us-east-1.elasticbeanstalk.com/api/v0,
 
 ## Project Setup
 
